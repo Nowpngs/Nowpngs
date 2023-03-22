@@ -1,6 +1,6 @@
 ### About Me 👋
 
-Hello, my name is Now. Welcome aboard to my github page. I'm fascinated by current technology, particularly web development, machine learning, blockchain technology, and virtual reality. Developer (Real-time DSP, ML for Audio, Audio Analysis, Music and Audio Perception) and inventor in the audio industry (Producer, Audio Engineer, Musician).
+Hello, my name is Now. Welcome aboard! I'm Interesting in all sort of modern technology such as Web Development, Machine Learning, Blockchain Technology, and Virtual Reality. Dedicate in Audio related field as developer (Real-time DSP, ML for Audio, Audio Analysis, Music and Audio Perception) and creator (Producer, Audio Engineer, Musician)
 
 ### Language and Tools 🛠️
 
