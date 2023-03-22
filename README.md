@@ -28,7 +28,7 @@ Hello and welcome aboard! I'm an Audio Practitioner who has transitioned into a 
   <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
 
-### Where to find me
+### Where to find me ✉️ 
 <a href="https://www.linkedin.com/in/pannarong-thongtangsai/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
