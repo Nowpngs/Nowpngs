@@ -27,3 +27,11 @@ Hello and welcome aboard! I'm an Audio Practitioner who has transitioned into a 
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
+
+### Where to find me
+<a href="https://www.linkedin.com/in/pannarong-thongtangsai/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://medium.com/@now.thongtangsai">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
